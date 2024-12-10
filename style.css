@@ -1,0 +1,16 @@
+body{
+    background-color: rgba(53, 134, 241, 0.767);
+    .montserrat-<uniquifier> {
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+                            };
+
+div{
+    text-align: center;
+    border-right: thick;
+    border-color: black;
+    border-bottom: thin;
+}
+
